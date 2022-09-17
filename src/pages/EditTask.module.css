@@ -1,0 +1,34 @@
+.formEdit {
+  margin: 80px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.formEdit h1 {
+  font-size: 40px;
+}
+
+.formEdit h1 span {
+  color: rgb(247, 4, 4);
+}
+
+.formEdit form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.descricao {
+  width: 400px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  font-weight: bold;
+  padding: 5px 10px;
+  line-height: 1.4;
+  font-size: 18px;
+  border-radius: 10px;
+  border: 2px solid #000;
+}
