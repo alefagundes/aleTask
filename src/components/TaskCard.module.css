@@ -1,0 +1,91 @@
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 1em 2em;
+  margin-bottom: 2em;
+  width: 23%;
+  border-radius: 1em;
+  border: 2px solid rgb(143, 143, 255);
+  box-shadow: 5px 5px 12px rgb(0, 0, 0, 0.5);
+  background-color: rgb(71, 71, 71);
+  color: #fff;
+}
+
+.card form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.card svg {
+  width: 150px;
+  height: 80px;
+}
+
+.concluir svg {
+  height: 35px;
+  width: 35px;
+  color: #fff;
+}
+
+.concluir {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  border: none;
+  background-color: rgb(42, 207, 42);
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.funcoes {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.edicao svg {
+  color: #fff;
+  height: 35px;
+  width: 35px;
+}
+
+.edicao {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  border-radius: 50%;
+  background-color: rgb(143, 143, 255);
+}
+
+.data {
+  letter-spacing: 1px;
+  padding: 5px;
+}
+
+.name {
+  text-transform: capitalize;
+  padding: 5px;
+}
+
+.details {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  border-radius: 50%;
+  background-color: rgb(248, 183, 123);
+}
+
+.details svg {
+  color: #fff;
+  height: 35px;
+  width: 35px;
+}

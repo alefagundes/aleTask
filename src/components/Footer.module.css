@@ -1,0 +1,18 @@
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 150px;
+  background-color: #333;
+  color: #fff;
+  margin-top: 20px;
+}
+
+.footer p {
+  font-size: 21px;
+}
+
+.footer p span {
+  color: rgb(143, 143, 255);
+  font-weight: bold;
+}

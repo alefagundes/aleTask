@@ -1,0 +1,35 @@
+input:focus {
+  outline: none;
+}
+
+input[type='text'] {
+  border: none;
+  background-color: transparent;
+  border-bottom: 2px solid #000;
+  width: 400px;
+  margin: 20px 10px;
+  height: 35px;
+  font-size: 18px;
+}
+
+input[type='text']::placeholder {
+  color: #000;
+  font-size: 18px;
+}
+
+input[type='submit'] {
+  width: 400px;
+  letter-spacing: 2px;
+  font-size: 18px;
+  padding: 10px 0px;
+  font-weight: bold;
+  text-transform: uppercase;
+  background-color: greenyellow;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+input[type='submit']:hover {
+  color: greenyellow;
+  background-color: #333;
+}

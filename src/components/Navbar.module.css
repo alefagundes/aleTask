@@ -1,0 +1,48 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 11px 15px;
+  background-color: #000;
+  border-bottom: 3px solid #ccc;
+  margin-bottom: 3em;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 25px;
+}
+.logo span {
+  color: rgb(143, 143, 255);
+  font-weight: bold;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #fff;
+}
+.navbar a svg {
+  font-size: 35px;
+  margin-right: 5px;
+}
+
+.navbar ul {
+  width: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.navbar ul a {
+  padding: 8px;
+  border-radius: 4px;
+  font-size: 21px;
+}
+
+.navbar ul a:hover {
+  color: #000;
+  background-color: #fff;
+  transition: 0.5s;
+}

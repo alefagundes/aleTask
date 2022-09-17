@@ -1,0 +1,52 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "lavar o carro",
+      "descricao": "usar shampoo automotivo de qualidade, passar cera, limpar as rodas e colocar cheirinho",
+      "data": "12/01/2022"
+    },
+    {
+      "id": 2,
+      "name": "tomar agua 10h",
+      "descricao": "comer boas frutas e um bom cafe comm leite, tirar um tempo para apreciar essas tarefas",
+      "data": "12/01/2022"
+    },
+    {
+      "id": 3,
+      "name": "tirar o lixo",
+      "descricao": "ajudar dentro de casa e tirar o lixo para que tudo ocorra bem",
+      "data": "12/01/2022"
+    },
+    {
+      "id": 4,
+      "name": "Dar beijo na Luna",
+      "descricao": "fazer carinho no doguinho gordo para que tudo fique bem e 2 beijinhos apenas pq ela n curte muito",
+      "data": "12/01/2022"
+    },
+    {
+      "id": 5,
+      "name": "Almocar bem",
+      "descricao": "um bom almoco, abracar a coroa e ficar com ela",
+      "data": "12/01/2022"
+    },
+    {
+      "id": 6,
+      "name": "Delly",
+      "descricao": "delly nossa de cada dia",
+      "data": "12/01/2022"
+    },
+    {
+      "id": 7,
+      "name": "Gerar issu",
+      "descricao": "gerar issue para a squad de contratos e informar o novo PO",
+      "data": "12/01/2022"
+    },
+    {
+      "name": "new Task",
+      "data": "21/09/2000",
+      "descricao": "Nova tarefa para os bruxo se divertit",
+      "id": 8
+    }
+  ]
+}
